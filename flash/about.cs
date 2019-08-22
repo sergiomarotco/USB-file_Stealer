@@ -23,7 +23,7 @@ namespace USBfileStealer
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://sites.google.com/site/coolprogramms/arhiv-besplatnyh-programm");
+            System.Diagnostics.Process.Start("https://github.com/sergiomarotco/USB-file_Stealer");
         }
     }
 }

@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("USB-file stealer")]
 [assembly: AssemblyDescription("Программа крадет файлы с подключенных съемных USB-устройств")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("https://cloud.mail.ru/public/9tc8/uLYQceHsV")]
+[assembly: AssemblyCompany("https://github.com/sergiomarotco/")]
 [assembly: AssemblyProduct("USB-file stealer")]
-[assembly: AssemblyCopyright("Copyright © Sergiomarotco 2015")]
+[assembly: AssemblyCopyright("Copyright © Sergiomarotco 2019")]
 [assembly: AssemblyTrademark("Sergiomarotco")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Можно задать все значения или принять номера сборки и редакции по умолчанию 
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.4.666")]
-[assembly: AssemblyFileVersion("1.0.4.666")]
+[assembly: AssemblyVersion("1.0.5.666")]
+[assembly: AssemblyFileVersion("1.0.5.666")]
