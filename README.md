@@ -1,5 +1,5 @@
 <h1>USB FILE STEALER</h1>
-<h3>Нзначение</h3>
+<h3>Назначение</h3>
 <br>Программа крадет файлы с подключенных съемных USB-устройств
 <br>The program steals files from removable storage media that connect to a computer
 <img src='https://raw.githubusercontent.com/sergiomarotco/USB-file_Stealer/master/Screen.jpg' />
