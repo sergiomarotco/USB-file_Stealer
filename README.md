@@ -1,2 +1,3 @@
-#Программа крадет файлы с подключенных съемных USB-устройств
+#РџСЂРѕРіСЂР°РјРјР° РєСЂР°РґРµС‚ С„Р°Р№Р»С‹ СЃ РїРѕРґРєР»СЋС‡РµРЅРЅС‹С… СЃСЉРµРјРЅС‹С… USB-СѓСЃС‚СЂРѕР№СЃС‚РІ
 https://habr.com/ru/post/264513/
+<img src='https://raw.githubusercontent.com/sergiomarotco/USB-file_Stealer/master/Screen.jpg' />
