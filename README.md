@@ -1,6 +1,7 @@
 <h1>USB FILE STEALER</h1>
 <h3>Назначение</h3>
-<br>Программа крадет файлы с подключенных съемных USB-устройств
+<br>Программа в фоновом процессе крадет файлы с подключенных съемных USB-устройств.<br>
+Даже если владелец съёмного процессу будет наблюдать за действиями через монитор, он не увидит как ПО копирует файла по маске с его съёмного носителя.
 <br>The program steals files from removable storage media that connect to a computer
 <img src='https://raw.githubusercontent.com/sergiomarotco/USB-file_Stealer/master/Screen.jpg' />
 <h3>Пример применения ПО злоумышленником</h3>
